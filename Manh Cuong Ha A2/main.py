@@ -1,10 +1,10 @@
 """
 Name: Manh Cuong Ha
-Date: 26/05/2019
+Date: 24/05/2019
 Brief Project Description:
 This program is created so that the users can manage their places data and keep them updated with their places status to
 see whether the user has visited a specific place or not. The users can also add new place to their places data.
-GitHub URL:
+GitHub URL: https://github.com/Hamanhcuong26/CP1404/tree/master/Manh%20Cuong%20Ha%20A2
 """
 
 from kivy.app import App
